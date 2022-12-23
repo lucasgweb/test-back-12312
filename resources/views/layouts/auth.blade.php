@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <title>{{$title}} - Supera Inovação e Tecnologia</title>
     <link rel="stylesheet" href="{{asset('assets/css/styles.css')}}">
-    <link rel="icon" type="image/x-icon" href="{{asset('assets/img/favicon.svg')}}" />
+    <link rel="icon" type="image/x-icon" href="{{asset('assets/img/favicon.ico')}}" />
     <script data-search-pseudo-elements defer src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/js/all.min.js" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/feather-icons/4.28.0/feather.min.js" crossorigin="anonymous"></script>
 </head>
@@ -19,7 +19,7 @@
         <footer class="footer-admin mt-auto footer-dark">
             <div class="container-xl px-4">
                 <div class="row">
-                    <div class="col-md-6 small">Copyright &copy; Supera Inovação e Tecnologia 2022</div>
+                    <div class="col-md-6 small">Copyright &copy; Oficina Máximo</div>
                     <div class="col-md-6 text-md-end small">
                         <a href="#">Políticas de Privacidade</a>
                         &middot;

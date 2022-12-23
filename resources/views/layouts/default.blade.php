@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
     <title>{{$title}} - Supera Inovação e Tecnologia</title>
     <link rel="icon" type="image/x-icon"
-          href="{{asset('assets/img/favicon.svg')}}"/>
+          href="{{asset('assets/img/favicon.ico')}}"/>
     <script data-search-pseudo-elements defer
             src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/js/all.min.js"
             crossorigin="anonymous"></script>
@@ -24,7 +24,7 @@
             data-feather="menu"></i></button>
     <a class=" pe-3 ps-4 ps-lg-2"
        href="{{route('home.index')}}"><img
-            src="{{asset('assets/img/nova-logo-supera-branca.svg')}}" width="100"></a>
+            src="{{asset('assets/img/logo.png')}}" width="190"></a>
     <ul class="navbar-nav align-items-center ms-auto">
         <li class="nav-item dropdown no-caret dropdown-user me-3 me-lg-4">
             <a class="btn btn-icon btn-transparent-dark dropdown-toggle" id="navbarDropdownUserImage"
@@ -91,7 +91,7 @@
         <footer class="footer-admin mt-auto footer-light">
             <div class="container-xl px-4">
                 <div class="row">
-                    <div class="col-md-6 small">Copyright &copy; Supera Inovação e Tecnologia 2022</div>
+                    <div class="col-md-6 small">Copyright &copy; Oficina Máximo</div>
                     <div class="col-md-6 text-md-end small">
                         <a href="#">Políticas de privacidade</a>
                         &middot;
